@@ -1,33 +1,20 @@
-# Checkpoint2Kotlin
+# AndroidCrypto sem XML
+## Grupo
 
-
-## Implementação do código:
-
-Implementação das classes/layouts:
-
-![Classes&Layouts](./img/Imagem1.png)
-
-Um pouco do código do MainActivity:
-
-![MainActivity](./img/Imagem2.png)
-
-Código do layout activity_main:
-
-![activity_main](./img/Imagem3.png)
+RM 87438 - Guilherme Luis Engel
+RM 551406 - Gabriel Dias Santiago
 
 ---
 
-## Executando o código:
+## Código rodando:
+Código iniciado
+![codigo](./img/imagem10.png)
 
-![Execução](./img/Imagem4.png)
+Fazendo a requisição da API
+![RequisitandoAPI](./img/imagem11.png)
 
-Uma outra print mas com zoom:
-
-![ExecuçãoZoom](./img/Imagem5.png)
-
-Depois de apertar no atualizar para fazer a chamada API:
-
-![Executado](./img/Imagem6.png)
+## Código da chamada de API
+![codigo](./img/imagem11.png)
 
 ---
 
