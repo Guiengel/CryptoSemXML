@@ -9,6 +9,7 @@ RM 551406 - Gabriel Dias Santiago
 
 ## Código rodando:
 Código iniciado
+
 ![codigo](./img/Imagem10.png)
 
 Fazendo a requisição da API
