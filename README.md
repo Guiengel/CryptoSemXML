@@ -18,7 +18,7 @@ Fazendo a requisição da API
 
 Código da chamada de API
 
-![codigo](./img/Imagem11.png)
+![codigo](./img/Imagem12.png)
 
 ---
 
