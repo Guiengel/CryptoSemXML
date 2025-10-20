@@ -12,9 +12,11 @@ Código iniciado
 ![codigo](./img/Imagem10.png)
 
 Fazendo a requisição da API
+
 ![RequisitandoAPI](./img/Imagem11.png)
 
-## Código da chamada de API
+Código da chamada de API
+
 ![codigo](./img/Imagem11.png)
 
 ---
