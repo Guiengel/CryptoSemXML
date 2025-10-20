@@ -8,13 +8,13 @@ RM 551406 - Gabriel Dias Santiago
 
 ## Código rodando:
 Código iniciado
-![codigo](./img/imagem10.png)
+![codigo](./img/Imagem10.png)
 
 Fazendo a requisição da API
-![RequisitandoAPI](./img/imagem11.png)
+![RequisitandoAPI](./img/Imagem11.png)
 
 ## Código da chamada de API
-![codigo](./img/imagem11.png)
+![codigo](./img/Imagem11.png)
 
 ---
 
